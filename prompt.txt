@@ -4,4 +4,4 @@ Example:
 <time>1.0-2.5</time><caption>A person holds a paintbrush and dips it into red paint, with soft brush-stroking sound.</caption>
 <time>5.2-6.8</time><caption>The person paints a sun on a white canvas.</caption>
 <thinking>Let me think. The first segment shows the person preparing to paint, and the second shows them actually painting a sun. So the main action should be painting.</thinking>
-<answer>Painting a sun on a canvas</answer>
+<answer>A. Painting a sun on a canvas</answer>
