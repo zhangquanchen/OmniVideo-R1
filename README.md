@@ -1,6 +1,6 @@
 # OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention
 [![arXiv](https://img.shields.io/badge/arXiv-PDF-red)](https://arxiv.org/abs/2602.05847)
-
+[![arXiv](https://img.shields.io/badge/huggingface)](https://arxiv.org/abs/2602.05847)
 ## Instruction
 While humans perceive the world through diverse modalities that operate synergistically to support a holistic understanding of their surroundings, existing omnivideo models still face substantial challenges on audio-visual understanding tasks. In this paper, we propose OmniVideo-R1, a novel reinforced framework that improves mixed-modality reasoning. OmniVideo-R1 empowers models to "think with omnimodal cues" by two key strategies: (1) query-intensive grounding based on self-supervised learning paradigms; and (2) modality-attentive fusion built upon contrastive learning paradigms. Extensive experiments on multiple benchmarks demonstrate that OmniVideo-R1 consistently outperforms strong baselines, highlighting its effectiveness and robust generalization capabilities.
 
