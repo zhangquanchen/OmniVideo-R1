@@ -36,16 +36,6 @@ bash train_multinode_qi.sh
 bash train_multinode_ma.sh
 ```
 
-### 4. Evaluation
-
-```bash
-# Step 1: Start vLLM inference server
-bash eval/infer_vllm.sh
-
-# Step 2: Run OmniVideoBench evaluation
-bash eval/run_eval.sh
-```
-
 ## Model Output Format
 
 The model is trained to produce structured outputs in the following format:
