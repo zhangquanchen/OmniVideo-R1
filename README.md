@@ -85,7 +85,7 @@ Key dependencies include:
 See `requirements.txt` for the full list.
 
 ## Bibtex
-If you find 3DThinker helpful for your work, please cite
+If you find OmniVideo-R1 helpful for your work, please cite
 ```
 @article{chen2026omnivideo,
   title={OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention},
